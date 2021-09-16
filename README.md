@@ -5,4 +5,4 @@
 - 📫 How to reach me: https://t.me/a_n_d_r_e_m_a
 - 📈 What I want to learn: Application Security, Metal, Flutter
 - ⚡ Hobby: Hockey, Gym
-Dev in Mail ru Group
+- Dev in Mail ru Group
