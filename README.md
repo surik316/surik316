@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Maks
+## Hi there 👋
 ### 👨‍💻 About me
 Software Engineer with more than 1+ year of commertial experience. I have quite enought knwoledge in mobile development on Swift. In general worked with ui components and different things of video editor.
 ### 🔑 Key points 
