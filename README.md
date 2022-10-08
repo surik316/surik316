@@ -12,4 +12,4 @@ Software Engineer with more than 1+ year of commertial experience. I have quite 
 - MVVM, VIPER, MVC, MVP Architectures
 - SnapKit, UIkit, RxSwift, AVFoundation, CoreData
 - GitHub/GitLab/Jira 
-CV: https://career.habr.com/surik01
+- CV: https://career.habr.com/surik01
