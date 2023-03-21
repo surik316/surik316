@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👨‍💻 About me
-Software Engineer with more than 1+ year of commertial experience. I have quite enought knwoledge in mobile development on Swift. In general worked with ui components and different things of video editor.
+Software Engineer with more than 2+ year of commertial experience. I have quite enought knwoledge in mobile development on Swift. In general worked with ui components and different things of video editor.
 ### 🔑 Key points 
 - Key skill Swift mobile development
 - 🔭 Study math and computer science at Higher School of Economics
