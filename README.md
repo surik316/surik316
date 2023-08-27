@@ -1,18 +1,19 @@
 ## Hi there, Max 👋
 ### 👨‍💻 About me
-Software Engineer with more than 2+ year of commertial experience. I have quite enought knwoledge in mobile development on Swift. In general worked with ui components and different things of video editor.
-### 🔑 Key points 
-- Key skill Swift mobile development
-- 🔭 Study math and computer science at Higher School of Economics
-- 💻 Currently working in Vkontakte
-- 📫 How to reach me: https://t.me/a_n_d_r_e_m_a
-- 📈 What I want to learn: Application Security, Metal, Flutter
+Russia
+Moscow
+
+📚 [**HSE**](https://www.hse.ru/en/ba/cosec/) computer security graduate.
+- 🥉 **2023 Telegram Calls hackathon winner**
+
+💬 [**My BLOG**](https://t.me/swifyway) There you can find interesting materials about swift and computer science.
+
 ### ⚒️ Technical Stack
-- Swift/Python/C++ languages
-- MVVM, VIPER, MVC, MVP Architectures
+- Swift/Python/C++
+- MVVM, VIPER, MVC, MVP
 - SnapKit, UIkit, RxSwift, AVFoundation, CoreData
-- GitHub/GitLab/Jira 
-- CV: https://career.habr.com/surik01
+- GitHub/GitLab/Jira
+
 ## Contacts, resume
 <table>
     <thead>
