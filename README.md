@@ -1,7 +1,4 @@
 ## Hi there, Max 👋
-### 👨‍💻 About me
-Russia
-Moscow
 
 📚 [**HSE**](https://www.hse.ru/en/ba/cosec/) computer security graduate.
 - 🥉 **2023 Telegram Calls hackathon winner**
