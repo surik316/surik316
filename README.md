@@ -29,4 +29,4 @@
     </tbody>
 </table>
 
-[![Leetcode Stats](https://leetcard.masurkov/masurkov)](https://leetcode.com/masurkov)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/masurkov)](https://leetcode.com/masurkov)
