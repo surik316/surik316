@@ -29,4 +29,4 @@
     </tbody>
 </table>
 
-![](https://leetcard.masurkov.cool/leetcode?site=cn)
+![](https://leetcard.masurkov/leetcode?site=cn)
